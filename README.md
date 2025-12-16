@@ -22,3 +22,6 @@ Beta (Mesafe Etkisi): Karıncaların daha yakın noktaları tercih etme eğilimi
 
 
 Buharlaşma Oranı: Her tur sonunda yollardaki feromonun ne kadarının uçacağını belirler. (Yerel minimumdan kaçmak için önemlidir).
+
+
+2012721050 Abdurrahman Tarık Yılmaz
